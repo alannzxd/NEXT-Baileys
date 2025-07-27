@@ -1,8 +1,21 @@
-# WhatsApp Baileys
+# <div align='center'>Baileys - Typescript/Javascript WhatsApp Web API</div>
 
 <p align="center">
-  <img src="https://files.catbox.moe/6crb31.jpg" alt="Thumbnail" />
+  <img src="https://i.top4top.io/p_3463no0l00.jpg" alt="Thumbnail" />
 </p>
+
+<div align='center'>
+
+![GitHub Downloads (all assets, all releases)](https://img.shields.io/github/downloads/whiskeysockets/baileys/total)
+![NPM Downloads](https://img.shields.io/npm/dw/%40whiskeysockets%2Fbaileys?label=npm&color=%23CB3837)
+![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/whiskeysockets/baileys)
+![GitHub License](https://img.shields.io/github/license/whiskeysockets/baileys)
+![Discord](https://img.shields.io/discord/725839806084546610?label=discord&color=%235865F2)
+![GitHub Repo stars](https://img.shields.io/github/stars/whiskeysockets/baileys)
+![GitHub forks](https://img.shields.io/github/forks/whiskeysockets/baileys)
+
+</div>
+
 
 WhatsApp Baileys is an open-source library designed to help developers build automation solutions and integrations with WhatsApp efficiently and directly. Using websocket technology without the need for a browser, this library supports a wide range of features such as message management, chat handling, group administration, as well as interactive messages and action buttons for a more dynamic user experience.
 
